@@ -1,2 +1,4 @@
-* [English](/en)
-* [中文](/zh)
+# Languages
+* [English](en/)
+* [French](fr/)
+* [Español](es/)
